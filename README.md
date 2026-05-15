@@ -102,6 +102,6 @@ Fraud_Transaction_Detection/
 ├── data/
 ├── outputs/
 ├── logs/
-├── final_fraud_detection_project.py
+├── Fraud_detection.py
 ├── requirements.txt
 └── README.md
