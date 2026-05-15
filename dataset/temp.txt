@@ -1,2 +1,2 @@
 
-In this dataset there are 180+ .pkl files. So it is not convenient to me to upload all dtat-files on the github.
+In this dataset there are 180+ .pkl files. So it is not convenient to me to upload all data-files on the github.
