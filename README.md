@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an advanced machine learning-based fraud transaction detection system developed using Python.
+This project is a machine learning-based fraud transaction detection system developed using Python.
 
 The system analyzes transaction datasets and predicts whether a transaction is fraudulent or legitimate using multiple machine learning algorithms.
 
